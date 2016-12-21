@@ -1,4 +1,4 @@
-## flow
+## FLOW
 
 * 该项目用于试验facebook的flow功能
 * 无聊把玩的..据说可以用于检查js变量的类型
